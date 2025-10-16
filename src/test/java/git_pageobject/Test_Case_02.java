@@ -2,11 +2,12 @@ package git_pageobject;
 
 import org.testng.annotations.Test;
 
-public class Test_Case_01 
+public class Test_Case_02
 {
 	@Test
 	public void sample()
 	{
-		System.out.println("first commit");
+		System.out.println("second commit");
 	}
+
 }
